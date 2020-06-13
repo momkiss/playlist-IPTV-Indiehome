@@ -1441,7 +1441,14 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="OLAHRAGA 4",KSA SPORTS 2 SD
 https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8?checkedby:iptvcat.com
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="OLAHRAGA 4",Astro Supersport 1
+https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="OLAHRAGA 4",Astro Supersport 2
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="OLAHRAGA 4",Astro Supersport 3
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="OLAHRAGA 4",Astro Supersport 4
+https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 
 #EXTM3U
 #PLAYLIST:iptvcat.com
