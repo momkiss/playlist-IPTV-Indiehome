@@ -514,7 +514,144 @@ http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="USEETV RELIGI",I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
 
-
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="UK Sports",USA NBC Sport Network SD
+http://loginto.live:80/holly/111111/28924
+#EXTINF:-1,USA: NBCSN
+http://loginto.live:80/holly/111111/21997
+#EXTINF:-1,UK | SKY SPORTS MAIN EVENT
+http://loginto.live:80/holly/111111/2092
+#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE
+http://loginto.live:80/holly/111111/1361
+#EXTINF:-1,UK |  SKY SPORTS PREMIER LEAGUE  HD
+http://loginto.live:80/holly/111111/43208
+#EXTINF:-1,UK |  SKY SPORTS PREMIER LEAGUE  SD
+http://loginto.live:80/holly/111111/43391
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL
+http://loginto.live:80/holly/111111/1360
+#EXTINF:-1,UK |  SKY SPORTS FOOTBALL  HD
+http://loginto.live:80/holly/111111/43203
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL  SD
+http://loginto.live:80/holly/111111/43398
+#EXTINF:-1,UK | SKY SPORTS RACING
+http://loginto.live:80/holly/111111/1370
+#EXTINF:-1,UK | SKY SPORTS ACTION
+http://loginto.live:80/holly/111111/1357
+#EXTINF:-1,UK | RACING TV
+http://loginto.live:80/holly/111111/1371
+#EXTINF:-1,UK | SKY SPORTS ARENA
+http://loginto.live:80/holly/111111/1358
+#EXTINF:-1,UK | SKY SPORTS BOX OFFICE
+http://loginto.live:80/holly/111111/22210
+#EXTINF:-1,UK | SKY SPORTS CRICKET
+http://loginto.live:80/holly/111111/1366
+#EXTINF:-1,UK | SKY SPORTS F1
+http://loginto.live:80/holly/111111/1359
+#EXTINF:-1,UK | SKY SPORTS GOLF
+http://loginto.live:80/holly/111111/1367
+#EXTINF:-1,UK | SKY SPORTS MIX
+http://loginto.live:80/holly/111111/1369
+#EXTINF:-1,UK | SKY SPORTS NEWS
+http://loginto.live:80/holly/111111/1362
+#EXTINF:-1,UK | BT SPORT 1
+http://loginto.live:80/holly/111111/627
+#EXTINF:-1,UK | BT SPORT 2
+http://loginto.live:80/holly/111111/628
+#EXTINF:-1,UK | BT SPORT 3
+http://loginto.live:80/holly/111111/629
+#EXTINF:-1,UK |  BT Sport 1 SD
+http://loginto.live:80/holly/111111/43402
+#EXTINF:-1,UK |  BT Sport 2 SD
+http://loginto.live:80/holly/111111/43403
+#EXTINF:-1,UK | BT Sport 3 SD
+http://loginto.live:80/holly/111111/43404
+#EXTINF:-1,UK | BT SPORT ESPN
+http://loginto.live:80/holly/111111/1375
+#EXTINF:-1,UK: BT Sport ESPN | SD
+http://loginto.live:80/holly/111111/43405
+#EXTINF:-1,UK | BT SPORT EXTRA 1
+http://loginto.live:80/holly/111111/25816
+#EXTINF:-1,UK | BT SPORT EXTRA 2
+http://loginto.live:80/holly/111111/25817
+#EXTINF:-1,UK | BT SPORT EXTRA 3
+http://loginto.live:80/holly/111111/25818
+#EXTINF:-1,UK | BT SPORT EXTRA 4
+http://loginto.live:80/holly/111111/25819
+#EXTINF:-1,UK | MUTV
+http://loginto.live:80/holly/111111/633
+#EXTINF:-1,UK | MUTV HD
+http://loginto.live:80/holly/111111/1293
+#EXTINF:-1,UK |  SKY SPORTS NEWS  UHD
+http://loginto.live:80/holly/111111/43207
+#EXTINF:-1,UK: Sky Sports Cricket | SD
+http://loginto.live:80/holly/111111/43401
+#EXTINF:-1,UK | Sky Sports Arena  SD
+http://loginto.live:80/holly/111111/43400
+#EXTINF:-1,UK |  Sky Sports F1   SD
+http://loginto.live:80/holly/111111/43399
+#EXTINF:-1,UK | SKY SPORTS ARENA  HD
+http://loginto.live:80/holly/111111/43202
+#EXTINF:-1,UK | SKY SPORTS MIX  HD
+http://loginto.live:80/holly/111111/43205
+#EXTINF:-1,UK | SKY SPORTS GOLF  SD
+http://loginto.live:80/holly/111111/43223
+#EXTINF:-1,UK | Sky Sports Action  SD
+http://loginto.live:80/holly/111111/43396
+#EXTINF:-1,UK | BOX NATION  SD
+http://loginto.live:80/holly/111111/43226
+#EXTINF:-1,UK | ELEVEN SPORTS 1
+http://loginto.live:80/holly/111111/1384
+#EXTINF:-1,UK | VIRGIN SPORT IRELAND
+http://loginto.live:80/holly/111111/1382
+#EXTINF:-1,UK | BOX NATION
+http://loginto.live:80/holly/111111/1379
+#EXTINF:-1 group-title="NBC Sports",US:NBCSN GOLD HD
+http://loginto.live:80/holly/111111/4594
+#EXTINF:-1,US:NBC GOLD PL 1HD
+http://loginto.live:80/holly/111111/4595
+#EXTINF:-1,US:NBC GOLD PL 2HD
+http://loginto.live:80/holly/111111/4596
+#EXTINF:-1,US:NBC GOLD PL 3HD
+http://loginto.live:80/holly/111111/4597
+#EXTINF:-1,US:NBC GOLD PL 4HD
+http://loginto.live:80/holly/111111/4598
+#EXTINF:-1,US:NBC GOLD PL 5HD
+http://loginto.live:80/holly/111111/4599
+#EXTINF:-1,US:NBC GOLD PL 6HD
+http://loginto.live:80/holly/111111/4600
+#EXTINF:-1,US:NBC GOLD PL 7HD
+http://loginto.live:80/holly/111111/4601
+#EXTINF:-1,US:NBC GOLD PL 8HD
+http://loginto.live:80/holly/111111/4602
+#EXTINF:-1,US:NBC GOLD PL 9HD
+http://loginto.live:80/holly/111111/4603
+#EXTINF:-1,US:NBC GOLD PL 10HD
+http://loginto.live:80/holly/111111/4604
+#EXTINF:-1 group-title="English Premier League",ASTRO - EPL 1
+http://loginto.live:80/holly/111111/13549
+#EXTINF:-1,ASTRO - EPL 2
+http://loginto.live:80/holly/111111/13550
+#EXTINF:-1,ASTRO - EPL 3
+http://loginto.live:80/holly/111111/13551
+#EXTINF:-1,ASTRO - EPL 3.1
+http://loginto.live:80/holly/111111/13552
+#EXTINF:-1,ASTRO - EPL 4
+http://loginto.live:80/holly/111111/13553
+#EXTINF:-1,EPL 01:
+http://loginto.live:80/holly/111111/13554
+#EXTINF:-1,EPL 02:
+http://loginto.live:80/holly/111111/13555
+#EXTINF:-1,EPL 03:
+http://loginto.live:80/holly/111111/13556
+#EXTINF:-1,EPL 04:
+http://loginto.live:80/holly/111111/13557
+#EXTINF:-1,EPL 05:  Watford vs Leicester
+http://loginto.live:80/holly/111111/13558
+#EXTINF:-1,EPL 06: Watford vs Leicester
+http://loginto.live:80/holly/111111/13559
+#EXTINF:-1,EPL 07: Brighton vs Arsenal
+http://loginto.live:80/holly/111111/13560
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="USEETV ANAK-ANAK",ANIPLUS
