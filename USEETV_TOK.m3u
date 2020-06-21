@@ -1400,8 +1400,8 @@ http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="OLAHRAGA 3",SPORTS MAX
 http://161.0.157.9/PLTV/88888888/224/3221226766/04.m3u8
-
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2NqC6YD/images.jpg" group-title="OLAHRAGA 3", NBC SPORTS
+http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 ##### OLAHRAGA 4 #########
 
