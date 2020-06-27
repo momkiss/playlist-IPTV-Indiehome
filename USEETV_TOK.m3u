@@ -517,7 +517,8 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 #EXTM3U
 #EXTPARAMS:NET=6500
 #EXTINF:-1 group-title="UK Sports",USA NBC Sport Network SD
-http://loginto.live:80/holly/111111/28924
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIwIDExOjI2OjAzIEFNJmhhc2hfdmFsdWU9SjJBV3J3UnIxREt0eWtLN0JNSjVXdz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49NCZpZD0w|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71137%2FNBC-Sport-Network-(SD)
+
 #EXTINF:-1,USA: NBCSN
 http://loginto.live:80/holly/111111/21997
 #EXTINF:-1,UK | SKY SPORTS MAIN EVENT
