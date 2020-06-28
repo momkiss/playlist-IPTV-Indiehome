@@ -518,9 +518,8 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 #EXTPARAMS:NET=6500
 #EXTINF:-1 group-title="UK Sports",USA NBC Sport Network SD
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIwIDExOjI2OjAzIEFNJmhhc2hfdmFsdWU9SjJBV3J3UnIxREt0eWtLN0JNSjVXdz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49NCZpZD0w|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71137%2FNBC-Sport-Network-(SD)
-
-#EXTINF:-1,USA: NBCSN
-http://loginto.live:80/holly/111111/21997
+#EXTINF:-1,USA: NBCSN 
+http://olyhdliveextra-vh.akamaihd.net/i/NBCU_Sports_Group_-_Ads/214/14/2018_CT6_5044345_301516734272141_%2C3%2C55%2C40%2C22%2C14%2C9%2C6%2C00k.mp4.csmil/master.m3u8?__b__=1400
 #EXTINF:-1,UK | SKY SPORTS MAIN EVENT
 http://loginto.live:80/holly/111111/2092
 #EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE
