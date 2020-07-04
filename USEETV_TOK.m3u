@@ -463,7 +463,7 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WTVJ) (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjAgMzoyNzoxMCBQTSZoYXNoX3ZhbHVlPUxRLzF3SmNUM05jNUpjQUliOVlteUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJnN0cm1fbGVuPTQmaWQ9MA==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2MyiyMl.png" group-title="USA",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
