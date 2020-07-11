@@ -1,58 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sport",Sport TV 1
-https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Sport TV 2
-https://live.dufree4k.net/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Sport TV 3
-https://live.dufree4k.net/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Sport TV 4
-https://live.dufree4k.net/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Sport TV 5
-https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Foxsports HD TH
-https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Foxsports 2 TH
-https://live.dufree4k.net/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Foxsports 3 TH
-https://live.dufree4k.net/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",beIN Sports 1 TH
-https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",beIN Sports 2 TH
-https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",PremierFootball HD1
-https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",PremierFootball HD2
-https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",PremierFootball HD3
-https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",PremierFootball HD4
-https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",PremierFootball HD5
-https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport", SKYNET-SPORT-HD
-https://live.dufree4k.net/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport", SKYNET-SPORT-1
-https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport", SKYNET-SPORT-2
-https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport", SKYNET-SPORT-3
-https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport", SKYNET-SPORT-4
-https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport", SKYNET-SPORT-5
-https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport", SKYNET-SPORT-6
-https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",True Sport 1 HD
-https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",True Sport 2 HD
-https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",True Sport 3 HD
-https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",True Sport 4 HD
-https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
-
 #EXTM3U
 #EXTINF:0,UK - SS Mix
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1328
