@@ -125,6 +125,8 @@ http://brhn.xyz/stream/sc/bundes1.php
 #EXTINF:-1  tvg-logo="https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/459/image/45948ed820777a246ff9eee13107e746.jpg" group-title="Olahraga",FEED F1 1
 http://brhn.xyz/stream/sc/f1.php
 #EXTINF:-1  tvg-logo="https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/459/image/45948ed820777a246ff9eee13107e746.jpg" group-title="Olahraga",FEED F1 2
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NTI6NTQgUE0maGFzaF92YWx1ZT1sWEFMRGo0MFlxLzZIMDltVlgxM2J3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA
+#EXTINF:-1 
 http://brhn.xyz/stream/sc/f2.php
 
 
