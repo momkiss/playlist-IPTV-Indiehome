@@ -4,6 +4,47 @@
 #EXTINF:-1 tvg-id="NBC.US" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="体育",NBC Sports Network
 http://stream-e30453a4b.nmbs.top/m3u/Sports/019e96a4c6.m3u8
 
+
+#EXTM3U
+#EXTINF:0,UK - SS Mix
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1328
+#EXTINF:0,UK - SSHD Action
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1331
+#EXTINF:0,UK - SSHD Arena
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/12408
+#EXTINF:0,UK - SSHD Cricket
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1332
+#EXTINF:0,UK - SSHD F1
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1402
+#EXTINF:0,UK - SSHD Football
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/12407
+#EXTINF:0,UK - SSHD Golf
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1330
+#EXTINF:0,UK - SSHD Main Event
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1400
+#EXTINF:0,UK - SSHD News
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1401
+#EXTINF:0,UK - SSHD Premier League
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1399
+#EXTINF:0,UK - BT Sport 1 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1408
+#EXTINF:0,UK - BT Sport 2 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1306
+#EXTINF:0,UK - BT Sport 3 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1305
+#EXTINF:0,UK - BT Sport ESPN HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1407
+#EXTINF:0,US | ESPN 2 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15950
+#EXTINF:0,US | ESPN HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15951
+#EXTINF:0,US | NBC Sports Network
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/22499
+#EXTINF:0,US | NBC Sports Network HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15942
+#EXTINF:0,US | TSN 2 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15928
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",Channel Info
 http://brhn.xyz/info.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",PLAYLIST INI GRATIS TIDAK DIPERJUALBELIKAN !!!
