@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTM3U
 
-#EXTINF:0 tvg-name="NBC Sport Network SD Thor" tvg-language="English" tvg-country="US" tvg-id="NBC Sport Network SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",NBC Sport Network SD Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MjY6MDYgUE0maGFzaF92YWx1ZT1RN1g0RDQ2aTV4RHNIVUJxai9kYi9RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71137%2FNBC-Sport-Network-(SD)
-
-#EXTINF:0 tvg-name="NBC Sports RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="NBC Sports RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",NBC Sports RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6MjY6MjEgUE0maGFzaF92YWx1ZT1qYVdVNVY1cG40US82TEhmYTU1b1p3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F64232%2FNBC-Sport-Network-(HD)
-
-#EXTINF:0 tvg-name="NFL Network RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="NFL Network RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",NFL Network RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6Mjc6MjAgUE0maGFzaF92YWx1ZT1JQmtnS3FDVGUyUnBPZHhyazFBdnVRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68875%2FNFL-Network-(HD)
+#EXTINF:-1 tvg-id="NBC.US" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="体育",NBC Sports Network
+http://stream-e30453a4b.nmbs.top/m3u/Sports/019e96a4c6.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",Channel Info
 http://brhn.xyz/info.m3u8
