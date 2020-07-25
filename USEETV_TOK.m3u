@@ -142,72 +142,77 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",Channel Info
-http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.domain.com/static/img/ui-refresh/tld-xl-info-logo.png" group-title="TV Nasional",PLAYLIST INI GRATIS TIDAK DIPERJUALBELIKAN !!!
-http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",TransTV
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",TransTV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1890821583_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7
+http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1819272421_b384000_sleng.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV
-http://brhn.xyz/stream/m3u/vidio-net-4july2020.m3u
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Nasional",ANTV
-http://brhn.xyz/stream/sc/antv.php
+http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/02.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
-http://brhn.xyz/stream/m3u/vidio-sctv-4july2020.m3u
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
-http://brhn.xyz/stream/m3u/vidio-indosiar-4july2020.m3u
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
-http://brhn.xyz/stream/rcti.m3u
-#EXTINF:0 tvg-id="" tvg-name="GlobalTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",Global TV
-http://brhn.xyz/stream/globaltvhd.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC TV
-http://brhn.xyz/stream/mnctv.m3u
-#EXTINF:0 tvg-id="" tvg-name="iNews" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",iNews
-http://brhn.xyz/stream/inews.m3u
-#EXTINF:0 tvg-id="" tvg-name="TVONE" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TVONE
-http://brhn.xyz/stream/sc/tvone.php
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC
+https://etslive-2-vidio-com.akamaized.net/exp=1595046328~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=1fea566f5b4f48b3996c6461c51e51eaa80d9bdde979588a50f6a97d1918ac3c/vp9/870_stream.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD
+https://etslive-2-vidio-com.akamaized.net/exp=1595251846~acl=/hls-p/ingest_5409_*/*~hmac=b3da1d4c2d47d9a43178ed304a31428beefa7f7c5f985027142c2672e6bce776/hls-p/ingest_5409_720p/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVONE.png" group-title="TV Nasional",TV One
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybNXaLwxlpBPQ0JR1BrXEDFs)/dm/3/x619221/s/live-3.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV SD
+https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_CZ7Gh404n7Cdvp6CQ-TGo)/dm/3/x75p70w/d/live-2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV
-http://brhn.xyz/stream/m3u/kompastv-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="RTV" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",RTV
-http://brhn.xyz/stream/m3u/rtv-4july2020.m3u
+https://etslive-2-vidio-com.akamaized.net/exp=1595251744~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=b077ad242b1bd463c2623dbec838947415aa9df4d97d385c26aa75e1ad2af40c/vp9/874_stream.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",RTV
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_big1.png" group-title="TV Nasional",JTV
-http://brhn.xyz/stream/m3u/jtv-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="TV Nasional",O Channel
-http://brhn.xyz/stream/m3u/vidio-ochanel-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="TV Nasional",Jak TV
-http://brhn.xyz/stream/m3u/jaktv-4july2020.m3u
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="TV Nasional",MY TV
-http://brhn.xyz/stream/m3u/mytv-4july2020.m3u
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI
-http://brhn.xyz/stream/m3u/tvri-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/AntaraTV.png" group-title="TV Nasional",ANTARA
-http://brhn.xyz/stream/m3u/antara-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
-http://brhn.xyz/stream/m3u/beritasatu-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="TV Nasional",DAAI TV
-http://brhn.xyz/stream/m3u/daaitv-4july2020.m3u
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="TV Nasional",The Indonesia Chanel
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI Yogyakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="TV Nasional",Bali TV
-http://brhn.xyz/stream/m3u/balitv-4july2020.m3u
-#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="TV Nasional",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JITV.png" group-title="TV Nasional",JITV
-http://brhn.xyz/stream/m3u/jitv-4july2020.m3u
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/RRINET.png" group-title="TV Nasional",RRI NET
-http://brhn.xyz/stream/m3u/rrinet-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI SD
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBAL TV SD
-https://brhn.xyz/stream/m3u/vidio-global-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC SD
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
