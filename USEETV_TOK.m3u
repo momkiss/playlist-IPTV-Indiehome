@@ -417,6 +417,11 @@ http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62240
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE",history2
 https://vcdnjt.useetv.com/joss/15/history/chunklist_w2106808853_b1344100_sleng.m3u8?enc=dL50vVhJ8Gjv5vqJKdvFvw&id=MjAxZjJiMjM0ZjMzZWUwYzEyZjQ4MzZmOWJkZDdkN2Q=&exp=1596085503
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="Knowledge",205 History Channel
+rtp://@239.1.1.57:8316
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="Knowledge",922 History Channel HD
+rtp://@239.1.1.23:8112
+
 
 
 
