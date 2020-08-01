@@ -1,43 +1,43 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:0,UK - SS Mix
+#EXTINF:0,UK - SS Mix group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1328
-#EXTINF:0,UK - SSHD Action
+#EXTINF:0,UK - SSHD Action group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1331
-#EXTINF:0,UK - SSHD Arena
+#EXTINF:0,UK - SSHD Arena group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/12408
-#EXTINF:0,UK - SSHD Cricket
+#EXTINF:0,UK - SSHD Cricket group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1332
-#EXTINF:0,UK - SSHD F1
+#EXTINF:0,UK - SSHD F1 group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1402
-#EXTINF:0,UK - SSHD Football
+#EXTINF:0,UK - SSHD Football group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/12407
-#EXTINF:0,UK - SSHD Golf
+#EXTINF:0,UK - SSHD Golf group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1330
-#EXTINF:0,UK - SSHD Main Event
+#EXTINF:0,UK - SSHD Main Event group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1400
-#EXTINF:0,UK - SSHD News
+#EXTINF:0,UK - SSHD News group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1401
-#EXTINF:0,UK - SSHD Premier League
+#EXTINF:0,UK - SSHD Premier League group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1399
-#EXTINF:0,UK - BT Sport 1 HD
+#EXTINF:0,UK - BT Sport 1 HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1408
-#EXTINF:0,UK - BT Sport 2 HD
+#EXTINF:0,UK - BT Sport 2 HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1306
-#EXTINF:0,UK - BT Sport 3 HD
+#EXTINF:0,UK - BT Sport 3 HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1305
-#EXTINF:0,UK - BT Sport ESPN HD
+#EXTINF:0,UK - BT Sport ESPN HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1407
-#EXTINF:0,US | ESPN 2 HD
+#EXTINF:0,US | ESPN 2 HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15950
-#EXTINF:0,US | ESPN HD
+#EXTINF:0,US | ESPN HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15951
-#EXTINF:0,US | NBC Sports Network
+#EXTINF:0,US | NBC Sports Network group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/22499
-#EXTINF:0,US | NBC Sports Network HD
+#EXTINF:0,US | NBC Sports Network HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15942
-#EXTINF:0,US | TSN 2 HD
+#EXTINF:0,US | TSN 2 HD group-title="Live Sports"
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15928
 
 
