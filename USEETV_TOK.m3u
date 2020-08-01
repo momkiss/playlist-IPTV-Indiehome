@@ -397,10 +397,22 @@ http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploasds/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE",SONY BBC EARTH HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-
-
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Kjrd4TMv/1-NAT-GEO-PEOPLE.jpg" group-title="KNOWLEDGE",NAT GEO PEOPLE
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18570
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cLJV4r40/2-NAT-GEO-WILD.jpg" group-title="KNOWLEDGE",NAT GEO WILD
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/18569
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/bv7MTg0w/3-NAT-GEO.jpg" group-title="KNOWLEDGE",NAT GEO
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62210
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/kGFvVm6k/8-ANIMAL-PLANET.jpg" group-title="KNOWLEDGE",ANIMAL PLANET
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62299
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/28GsD4Y0/4-NHK-WORLD.jpg" group-title="KNOWLEDGE",NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsdqR6qJ/5-WAKU-WAKU-JAPAN.jpg" group-title="KNOWLEDGE",WAKU WAKU JAPAN
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62143
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NG6hd3zq/6-DISCOVERY-CHANNEL.jpg" group-title="KNOWLEDGE",DISCOVERY
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62268
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/rp03x3rH/7-HISTORY-CHANNEL.jpg" group-title="KNOWLEDGE",HISTORY
+http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/62240
 
 
 
