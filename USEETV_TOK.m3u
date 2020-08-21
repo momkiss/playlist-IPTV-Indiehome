@@ -423,6 +423,22 @@ rtp://@239.1.1.57:8316
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="Knowledge",922 History Channel HD
 rtp://@239.1.1.23:8112
 
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",ANIMAL PLANET
+http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="PENGETAHUAN",Asian Food Network
+http://103.47.132.164/PLTV/88888888/224/3221227191/1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="PENGETAHUAN",BBC Earth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gpRLt7" group-title="PENGETAHUAN",BBC Lifestyle
+http://103.47.132.164/PLTV/88888888/224/3221227115/1.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY CHANNEL
+http://103.47.132.165:80/PLTV/88888888/224/3221227169/1.m3u8
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY ASIA
+http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="PENGETAHUAN",Discovery Science English
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng_360p/index.m3u8
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="PENGETAHUAN",History
+http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
 
 
 
@@ -452,6 +468,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=L
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" tvg-url="" group-title="Musik",MOOZ RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="Hiburan dan Permainan",MY eGG Network
