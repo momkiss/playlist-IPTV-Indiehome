@@ -1,43 +1,44 @@
 #EXTM3U
 
-#EXTINF:0,UK - SS Mix, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SS Mix
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1328
-#EXTINF:0,UK - SSHD Action, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Action
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1331
-#EXTINF:0,UK - SSHD Arena, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Arena
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/12408
-#EXTINF:0,UK - SSHD Cricket, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Cricket
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1332
-#EXTINF:0,UK - SSHD F1, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD F1
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1402
-#EXTINF:0,UK - SSHD Football, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Football
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/12407
-#EXTINF:0,UK - SSHD Golf, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Golf
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1330
-#EXTINF:0,UK - SSHD Main Event, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Main Event
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1400
-#EXTINF:0,UK - SSHD News, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD News
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1401
-#EXTINF:0,UK - SSHD Premier League, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Premier League
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1399
-#EXTINF:0,UK - BT Sport 1 HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",BT Sport 1 HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1408
-#EXTINF:0,UK - BT Sport 2 HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",BT Sport 2 HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1306
-#EXTINF:0,UK - BT Sport 3 HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",BT Sport 3 HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1305
-#EXTINF:0,UK - BT Sport ESPN HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",BT Sport ESPN HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1407
-#EXTINF:0,US | ESPN 2 HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",ESPN 2 HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15950
-#EXTINF:0,US | ESPN HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",ESPN HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15951
-#EXTINF:0,US | NBC Sports Network, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",NBC Sports Network
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/22499
-#EXTINF:0,US | NBC Sports Network HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",NBC Sports Network HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15942
-#EXTINF:0,US | TSN 2 HD, group-title="Live Sports"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",TSN 2 HD
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/15928
+
 
 
 
