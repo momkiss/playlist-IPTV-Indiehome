@@ -439,7 +439,22 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng_360p/index.m3u8
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="PENGETAHUAN",History
 http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
-
+#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="PENGETAHUAN",HGTV
+http://103.47.132.164/PLTV/88888888/224/3221227035/1.m3u8
+#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.pngg" group-title="PENGETAHUAN",Lifetime
+http://103.47.132.164/PLTV/88888888/224/3221227337/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Shed" tvg-logo="" group-title="PENGETAHUAN",Love Nature
+http://103.47.132.165/PLTV/88888888/224/3221227339/1.m3u8
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="PENGETAHUAN",National Geographic
+http://103.47.132.164/PLTV/88888888/224/3221227177/1.m3u8
+#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="PENGETAHUAN",Nat Geo People
+http://103.47.132.164/PLTV/88888888/224/3221227127/1.m3u8
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="PENGETAHUAN,Nat Geo Wild
+http://103.47.132.164/PLTV/88888888/224/3221227157/2.m3u8
+#EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="PENGETAHUAN",Smithsonian
+http://103.47.132.164/PLTV/88888888/224/3221227321/3.m3u8
+#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="PENGETAHUAN",TLC
+http://103.47.132.164/PLTV/88888888/224/3221227113/1.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
