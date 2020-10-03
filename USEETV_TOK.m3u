@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",Liga Inggris
+
+http://35.190.49.240/live/ami_1031/live/a_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIwIDQ6MzY6MTcgUE0maGFzaF92YWx1ZT1WUUJDbml2ZStsZ0g1dzNsZERWNzR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD05NS4xNDUuNzUuMTIzJnN0cm1fbGVuPTU=
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SS Mix
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/1328
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",SSHD Action
