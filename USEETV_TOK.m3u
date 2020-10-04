@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports",Liga Inggris
+https://d3kjg0bg0788ye.cloudfront.net/out/v1/c24504709a7a41ef881bf5d79bc30f4a/ch1_1.m3u8
+
+
 
 http://35.190.49.240/live/ami_1031/live/a_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIwIDQ6MzY6MTcgUE0maGFzaF92YWx1ZT1WUUJDbml2ZStsZ0g1dzNsZERWNzR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD05NS4xNDUuNzUuMTIzJnN0cm1fbGVuPTU
 
